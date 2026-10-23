@@ -113,10 +113,15 @@ timeline
 
 ## 📚 Publications
 
-Peer-reviewed chapters published with **Springer**:
+Peer-reviewed conference papers published by **Springer**, focused on mining **prevalent co-location patterns** in spatial data:
 
-| # | Publication | Link |
-|:-:|---|---|
+| # | Paper | Venue | Published | Link |
+|:-:|---|---|---|:-:|
+| 1 | **Efficient Redundancy Elimination to Discovering Concise Prevalent Co-location Patterns** | *Knowledge Management and Acquisition for Intelligent Systems* (pp. 107–119) | Nov 2024 | [📄 Read](https://link.springer.com/chapter/10.1007/978-981-96-0026-7_9) |
+| 2 | **MTRM: A Web-Miner Multi-Threshold Mining Co-location Patterns to Mitigate Redundancy** | *Web Information Systems Engineering – WISE 2024 PhD Symposium, Demos and Workshops* (pp. 265–273) | Feb 2025 | [📄 Read](https://link.springer.com/chapter/10.1007/978-981-96-1483-7_23) |
+| 3 | **MPCPM: Multi-level Prevalent Co-location Pattern Miner** | *Web and Big Data* (pp. 352–356) | Aug 2024 | [📄 Read](https://link.springer.com/chapter/10.1007/978-981-97-7244-5_24) |
+
+---|---|
 | 1 | Springer book chapter (2024) | [📄 Read on Springer](https://link.springer.com/chapter/10.1007/978-981-96-0026-7_9) |
 | 2 | Springer book chapter (2025) | [📄 Read on Springer](https://link.springer.com/chapter/10.1007/978-981-96-1483-7_23) |
 | 3 | Springer book chapter (2024) | [📄 Read on Springer](https://link.springer.com/chapter/10.1007/978-981-97-7244-5_24) |
