@@ -95,7 +95,7 @@ timeline
 
 ### 🧰 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,kubernetes,airflow,spark,hadoop&theme=dark" alt="Core skills" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,pytorch,kubernetes,airflow,spark,hadoop&theme=dark" alt="Core skills" />
 </p>
 
 ### 🔧 Tools & Platforms
@@ -106,6 +106,7 @@ timeline
 | **Orchestration & Infrastructure** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
 | **Graph Databases** | ![TigerGraph](https://img.shields.io/badge/TigerGraph-F47B20?logoColor=white) ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?logo=arangodb&logoColor=black) |
 | **Data Governance** | ![OpenMetadata](https://img.shields.io/badge/OpenMetadata-7147E8?logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) |
 | **AI / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white) |
 
@@ -113,10 +114,13 @@ timeline
 
 ## 📚 Publications
 
-Peer-reviewed conference papers published by **Springer**, focused on mining **prevalent co-location patterns** in spatial data:
+Springer conference papers on mining **prevalent co-location patterns** in spatial data:
 
-| # | Paper | Venue | Published | Link |
-|:-:|---|---|---|:-:|
+- 📄 [Efficient Redundancy Elimination to Discovering Concise Prevalent Co-location Patterns](https://link.springer.com/chapter/10.1007/978-981-96-0026-7_9)
+- 📄 [MTRM: A Web-Miner Multi-Threshold Mining Co-location Patterns to Mitigate Redundancy](https://link.springer.com/chapter/10.1007/978-981-96-1483-7_23)
+- 📄 [MPCPM: Multi-level Prevalent Co-location Pattern Miner](https://link.springer.com/chapter/10.1007/978-981-97-7244-5_24)
+
+---|---|---|:-:|
 | 1 | **Efficient Redundancy Elimination to Discovering Concise Prevalent Co-location Patterns** | *Knowledge Management and Acquisition for Intelligent Systems* (pp. 107–119) | Nov 2024 | [📄 Read](https://link.springer.com/chapter/10.1007/978-981-96-0026-7_9) |
 | 2 | **MTRM: A Web-Miner Multi-Threshold Mining Co-location Patterns to Mitigate Redundancy** | *Web Information Systems Engineering – WISE 2024 PhD Symposium, Demos and Workshops* (pp. 265–273) | Feb 2025 | [📄 Read](https://link.springer.com/chapter/10.1007/978-981-96-1483-7_23) |
 | 3 | **MPCPM: Multi-level Prevalent Co-location Pattern Miner** | *Web and Big Data* (pp. 352–356) | Aug 2024 | [📄 Read](https://link.springer.com/chapter/10.1007/978-981-97-7244-5_24) |
